@@ -8,8 +8,10 @@
 
 
 ## About
-This bot gets data from DuckDuckGo Wikipedia API
-- It uses Twilio for WhatsApp communication
+This bot was developed to make it easier for users to get information from the DuckDuckGo Wikipedia API, as easy as asking something to your close friends via WhatsApp, without you having to open a browser, type in a URL, enter a search command.
+- Easy to use
+- Powered by Twilio for WhatsApp communication
+- 100% coverage of the DuckDuckGo Wikipedia API
 
 
 # Contribution
